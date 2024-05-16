@@ -1,6 +1,6 @@
 # Google Image Scraper With Selenium
 
-### To use this code just install the selenium chrome web driver by downloading **the executable** or use **this code** :
+### To use this code just install the selenium chrome web driver by downloading ***the executable*** or use ***this code*** :
 
 ```ruby
 !pip install webdriver-manager
